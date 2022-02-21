@@ -1,0 +1,33 @@
+/* body  */
+body {
+  padding: 3% 10%;
+}
+
+/* heading */
+#heading {
+  padding-bottom: 4%;
+}
+
+/* upload div */
+#upload-file {}
+
+.upload-button {
+  border: dashed;
+  border-color: #000;
+  padding: 2rem 0;
+  background-color: #EEEEEE;
+  text-align: center;
+}
+
+/* Generated Thumbnail */
+#cards {
+  padding-top: 4%;
+}
+
+.card {
+  width: 18rem;
+}
+
+.card-heading {
+  padding-bottom: 2rem;
+}
